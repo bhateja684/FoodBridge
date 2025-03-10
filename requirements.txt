@@ -1,0 +1,6 @@
+streamlit as st
+dotenv 
+langchain_groq 
+langchain.memory 
+langchain.chains 
+langchain_core.prompts
